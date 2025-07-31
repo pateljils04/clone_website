@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.logo a{
+    font-size: 36px;
+    text-decoration: none;
+    color: black;
+    margin-right: 18px;
+}
+.Nav-Link{
+    margin-top: 10px;
+}
+.Nav-Link a{
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(113, 113, 113);
+    padding: 10px;
+    font-weight: 500;
+}

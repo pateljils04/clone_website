@@ -1,0 +1,19 @@
+.sec-1 {
+    height: 450px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    padding-top: 56px;
+}
+.cont-sec {
+    padding-top: 50px;
+    padding-left: 48px;
+}
+.cont-sec h1 {
+    font-size: 50px;
+    font-weight: 550;
+}
+

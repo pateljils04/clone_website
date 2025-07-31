@@ -1,0 +1,779 @@
+{
+  "smartphones": [
+    {
+      "id": 1,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202505/23/l7uPZsy8Us3Ml7j0.png",
+      "title": "OPPO A5x 5G",
+      "discount": "Instant Discount up to ₹1000",
+      "price": "₹12999",
+      "cutp": "₹16999"
+    },
+    {
+      "id": 2,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/16/s0lxraPWn73yF4lu.png",
+      "title": "OPPO A5 Pro 5G",
+      "price": "₹17999",
+      "cutp": "₹21999"
+    },
+    {
+      "id": 3,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/11/Sf3mt3qF5idRpv5z.png",
+      "title": "OPPO K13 5G",
+      "price": "₹17999",
+      "cutp": "₹22999"
+    },
+    {
+      "id": 4,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/17/zLbXeUqyWvMlCbVA.png",
+      "title": "OPPO F29 Pro 5G",
+      "discount": "Exchange Bonus",
+      "price": "₹27999",
+      "cutp": "₹32999"
+    },
+    {
+      "id": 5,
+      "image": "https://image.oppo.com/content/dam/oppo/in/mkt/smartphone/card-image/find-n3-flip.jpg.thumb.webp",
+      "title": "OPPO Find N3 Flip",
+      "discount": "Bank offer 10% off & Exchange extra bonus"
+    },
+    {
+      "id": 6,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202302/15/SrtL7TwcCqYXBAln.png",
+      "title": "OPPO Find N2 Flip",
+      "discount": "Bank offer 10% off & Exchange extra bonus"
+    },
+    {
+      "id": 7,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/08/3mRuBlRWPb1T7UKr.png",
+      "title": "OPPO Find X8 Pro",
+      "discount": "NCEMI up to 12 Months"
+    },
+    {
+      "id": 8,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/08/yqRdMcxZXOVnoBa3.png",
+      "title": "OPPO Find X8",
+      "discount": "NCEMI up to 12 Months",
+      "price": "₹69999",
+      "cutp": "₹79999"
+    },
+    {
+      "id": 9,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/19/AceLeaXtntKw1AZf.png",
+      "title": "OPPO Reno13 Pro 5G",
+      "discount": "Exchange Bonus up to ₹2,000",
+      "price": "₹49999",
+      "cutp": "₹54999"
+    },
+    {
+      "id": 10,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/19/oqqxIRPr87eTo2e9.png",
+      "title": "OPPO Reno13 5G",
+      "discount": "Exchange Bonus up to ₹2,000",
+      "price": "₹35999",
+      "cutp": "₹41999"
+    },
+    {
+      "id": 11,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/IzcVfAu2kdJjoeYS.png",
+      "title": "OPPO Reno12 Pro 5G",
+      "discount": "Bank offer 10% off"
+    },
+    {
+      "id": 12,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/YvKZMzJCqAWgRT5r.png",
+      "title": "OPPO Reno12 5G",
+      "discount": "Bank offer 10% off",
+      "price": "₹20999",
+      "cutp": "₹43999"
+    },
+    {
+      "id": 13,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202401/03/PwN6CHWJa3nTXFJt.png",
+      "title": "OPPO Reno11 Pro 5G"
+    },
+    {
+      "id": 14,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202401/03/FmsGOwNtafyTY2BK.png",
+      "title": "OPPO Reno11 5G"
+    },
+    {
+      "id": 15,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/17/zLbXeUqyWvMlCbVA.png",
+      "title": "OPPO F29 Pro 5G",
+      "discount": "Exchange Bonus",
+      "price": "₹27999",
+      "cutp": "₹32999"
+    },
+    {
+      "id": 16,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/17/UcReU2ltt6ujWzND.png",
+      "title": "OPPO F29 5G",
+      "discount": "Exchange Bonus",
+      "price": "₹23999",
+      "cutp": "₹28999"
+    },
+    {
+      "id": 17,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/15/NuxwNQugVPoCHncS.png",
+      "title": "OPPO F27 5G",
+      "discount": "10% OFF Instant Discount & Exchange Extra Bonus"
+    },
+    {
+      "id": 18,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/25/CxzQzFb5VTKGtlT7.png",
+      "title": "OPPO F27 Pro+ 5G",
+      "discount": "10% OFF Instant discount",
+      "price": "₹19999",
+      "cutp": "₹32999"
+    },
+    {
+      "id": 19,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/11/Sf3mt3qF5idRpv5z.png",
+      "title": "OPPO K13 5G",
+      "price": "₹17999",
+      "cutp": "₹22999"
+    },
+    {
+      "id": 20,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/25/dXOJDVgva9KGAJsc.png",
+      "title": "OPPO K12x 5G",
+      "discount": "10% OFF Instant discount",
+      "price": "₹12999",
+      "cutp": "₹16999"
+    },
+    {
+      "id": 21,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/21/sj3hhGpfoJW6M183.png",
+      "title": "OPPO A3 Pro 5G",
+      "discount": "Bank offer 10% off"
+    },
+    {
+      "id": 22,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/26/mnHZv7TqpOhGXJwJ.png",
+      "title": "OPPO A3x 5G",
+      "discount": "Bank offer 10% off",
+      "price": "₹11499",
+      "cutp": "₹14999"
+    },
+    {
+      "id": 23,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/19/A60J25gZJ0Qsw9HF.png",
+      "title": "OPPO A3 5G",
+      "discount": "Bank offer up to 10% off",
+      "price": "₹13999",
+      "cutp": "₹19999"
+    },
+    {
+      "id": 24,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202409/23/s5Y8931bp6lLhGU0.png",
+      "title": "OPPO A3x",
+      "price": "₹8999",
+      "cutp": "₹12999"
+    }
+  ],
+  "tablet": [
+    {
+      "id": 1,
+      "image": "https://image.oppo.com/content/dam/oppo/in/mkt/accessories/pad-air/listpage/oppo-pad-air-600x600.jpg.thumb.webp",
+      "title": "OPPO Pad Air"
+    }
+  ],
+  "audio": [
+    {
+      "id": 1,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/08/VNJVKVJL974QQQcW.png",
+      "title": "OPPO Enco Air2i",
+      "price": "₹1799"
+    },
+    {
+      "id": 2,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/08/n8esIhOwtTx8Rsv6.png",
+      "title": "OPPO Enco Air2 Pro",
+      "price": "₹3499"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/21/fbkZKbL1Dnb2SOMw.png",
+      "title": "OPPO SUPERVOOC 80W Power Adapter",
+      "price": "₹1099"
+    },
+    {
+      "id": 2,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/18/udxPsc9kRKZYqUlR.png",
+      "title": "OPPO SUPERVOOC 45W Power Adapter",
+      "price": "₹499"
+    },
+    {
+      "id": 3,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/27/obO2kJ7YNs3jTGQk.jpeg",
+      "title": "OPPO 80W SUPERVOOC Car Charger",
+      "price": "₹2499"
+    },
+    {
+      "id": 4,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202205/26/2RpmGL2jHGuYF1ui.png",
+      "title": "OPPO Micro USB Data Cable 1M"
+    },
+    {
+      "id": 5,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202205/27/OgHfMUExniVX7qWD.png",
+      "title": "OPPO VOOC Type-C Data Cable 1M",
+      "price": "₹499"
+    },
+    {
+      "id": 6,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202205/27/B4XCfyuGcQDlHuOK.png",
+      "title": "OPPO Type-C Data Cable 1M",
+      "price": "₹399"
+    },
+    {
+      "id": 7,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/25/cPS2MuUc72Rwi3F4.png",
+      "title": "OPPO Find X8 Pro Aramid Fiber Magnetic Case",
+      "price": "₹1999"
+    },
+    {
+      "id": 8,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/25/c5IvKAQM4YkWmzZf.png",
+      "title": "OPPO Find X8 Imitation Leather Texture Magnetic Half-pack Case"
+    },
+    {
+      "id": 9,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202405/28/3JBzabucyK1gYBMC.png",
+      "title": "OPPO MH166 Type-C Earphone",
+      "price": "₹149"
+    },
+    {
+      "id": 10,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202505/15/S4lJGOOuVOFi7Kjh.png",
+      "title": "OPPO MH137 Type-C Half-in-ear Wired Earbuds",
+      "price": "₹899"
+    }
+  ],
+  "products": [
+    {
+      "id": 100,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno13-series/list-page/reno13-5g/skyblue441x600.png",
+      "title": "OPPO Reno13 5G",
+      "description": "Discover the OPPO Reno13, a cutting-edge smartphone featuring an urban avant-garde aesthetic, AI Livephoto capabilitiy",
+      "price": "₹35,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/hxuBH4a8Aeor2VKv.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/5VKwt1NpCeOe56fC.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/grp3KHNLYSmlEzg2.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "8GB 256GB",
+      "battery": "4800-5000mAh",
+      "series": "Reno Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 101,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno13-series/list-page/reno13-pro-5g/purple-in.png",
+      "title": "OPPO Reno13 Pro 5G",
+      "description": "Discover the Reno13 Pro, a revolutionary smartphone with an urban avant-garde aesthetic, featuring an AI livephoto editor and a 3.5x telephoto camera.From ₹49999",
+      "price": "₹49,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/19/P9iQuoBXP9MSFAG2.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/19/9xpwKzGQvvCpSZd6.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202501/02/zDc3USjyFOIYnO3M.jpg?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "12GB 256GB",
+      "battery": "4800-5000mAh",
+      "series": "Reno Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 102,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno11-5g-en/listpage/reno11-427-600-green.png",
+      "title": "OPPO Reno11 5G",
+      "description": "Discover the OPPO Reno11, a sleek and powerful smartphone with a stunning camera setup. Enjoy the 50MP wide-angle",
+      "price": "₹29,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno11-5g-en/listpage/reno11-427-600-green.png",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno/reno11-series/in/reno11-5g/v1/assets/images-ksp-in-1-bur-d7111.jpg.avif?v=1704963639000"
+      ],
+      "memory": "8GB 256GB",
+      "battery": "4800-5000mAh",
+      "series": "Reno Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 103,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/f27-pro-plus-5g/listpage-new/427_600-blue-v2.png",
+      "title": "OPPO F27 Pro+ 5G",
+      "description": "Discover the OPPO F27,Waterproof Rated IP69 ,Damage-proof 360° Armour BodyUltra-Tough 3D Curved AMOLED Display ",
+      "price": "₹19,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/03/eAKM40kmDtMYxKWL.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/19/qhZVDxtVXmPvMcZY.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/19/Z5f9mJg4vhmlApcB.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "8GB 128GB",
+      "battery": "4800-5000mAh",
+      "series": "F Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 104,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a5-series-en/v1-in/listpage/445-600-white.png",
+      "title": "OPPO A5x 5G",
+      "description": "45W SUPERVOOCTM Flash Charge, 6000mAh Large Battery ,IP65 Water and Dust Resistance ,Damage-Proof 360° Armour Body",
+      "price": "₹12,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202505/22/LLwUEurR533RzMZ0.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202505/22/6reGQPCswbOarjKP.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202505/22/CFecLzgkFc7hOJsM.jpg?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "4GB 128GB",
+      "battery": "6000mAh",
+      "series": "A Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 105,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno11-pro-5g-en/listpage/reno11-pro-427-600-white.png",
+      "title": "OPPO Reno11 Pro 5G",
+      "description": "The OPPO Reno11 Pro is a high-end smartphone with powerful camera features and outstanding performance. It is equ...",
+      "price": "₹39,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno11-pro-5g-en/listpage/reno11-pro-427-600-white.png",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno/reno11-series/in/reno11-pro-5g/v1/assets/images-ksp-in-1-d7111.jpg.avif?v=1704963124000"
+      ],
+      "memory": "12GB 256GB",
+      "battery": "4400-4800mAh",
+      "series": "Reno Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 106,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-k13-5g-in/list-page/440-600-purple-v1.png",
+      "title": "OPPO K13 5G",
+      "description": "OPPO K13 5G offers the latest Snapdragon®6 Gen 4 mobile platform, 7000mAh 5-year durable battery and 80W SUPERVOOC flash charge.From ₹17999",
+      "price": "₹17,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/08/NTwP3KOoNDWnC7ie.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/08/ZdimhbOAqpmGNbNj.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/25/ce3fIMH8BEpUHb8w.jpg?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "8GB 128GB",
+      "battery": "7000mAh",
+      "series": "K Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 107,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno-12-en/listpage/427-600-pink.png",
+      "title": "OPPO Reno12 5G",
+      "description": "Experience the future of mobile technology with the OPPO Reno12, featuring groundbreaking AI enhancements, an excep...",
+      "price": "₹34,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno-12-en/listpage/427-600-pink.png",
+        "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno-12-en/product/specs.png",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno/reno12-series/in/reno12/assets/images-ksp-card-1-s3india-d7111.jpg.avif?v=1720606241000"
+      ],
+      "memory": "8GB 256GB",
+      "battery": "4800-5000mAh",
+      "series": "Reno Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 108,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno-12-pro-en/listpage/427-600-gold.png",
+      "title": "OPPO Reno12 Pro 5G",
+      "description": "The OPPO Reno12 Pro smartphone combines powerful AI photography features, quad-curved screen, stable connectivit...",
+      "price": "₹44,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno-12-pro-en/listpage/427-600-gold.png",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/reno/reno12-series/in/reno12-pro/assets/images-ksp-card-1-s2goldIndia-d7111.jpg.avif"
+      ],
+      "memory": "12GB 256GB",
+      "battery": "4800-5000mAh",
+      "series": "Reno Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 109,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a20-a3x/listpage/427-600-blue.png",
+      "title": "OPPO A3x 4G",
+      "description": "The OPPO A3x has military-grade shock resistance, multiple liquid resistance, a 1000nit ultra bright display and a 45W SUPERVOOC flash charge.From ₹8999",
+      "price": "₹8,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202506/04/i1nQFfCHDBEg7aFe.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202506/04/0VCWGkSLe5fKBYls.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202506/04/alT9QFpdiUJdSLYH.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "4GB 64GB",
+      "battery": "4800-5000mAh",
+      "series": "A Series",
+      "support5G": "4G"
+    },
+    {
+      "id": 110,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a5-pro/list-page/in/brown-427-600-in-v1.png",
+      "title": "OPPO A5 Pro 5G",
+      "description": "OPPO A5 Pro 5G offers IP69 Water and Dust Resistance, Military-Grade Shock Resistance, AI LinkBoost 2.0, and 5800mAh Large Battery.From ₹17999",
+      "price": "₹17,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/16/SprvQUBv2jDxCBum.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/16/7incwXFeXiPI70OB.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/16/3ghjHmEh6TQxSW3i.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "8GB 128GB",
+      "battery": "5800mAh",
+      "series": "A Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 111,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/ab5-a3-5g-en/list-page-new/nebula_red_en.png",
+      "title": "OPPO A3 5G",
+      "description": "OPPO A3 5G offers military-grade shock-resistant design with multiple liquid resistance, 120Hz ultra bright display, and 45W SUPERVOOC flash charge.From ₹13999.",
+      "price": "₹13,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/03/fOOgOJNr2KVafvgy.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/14/nxeKQUOWOzzeVyXI.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/14/hs5FZkY4emCHQFFt.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "6GB 128GB",
+      "battery": "4800-5000mAh",
+      "series": "A Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 112,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/list-page/427_600-purple.png",
+      "title": "OPPO A3 Pro 5G",
+      "description": "The OPPO A3 Pro 5G has 360°damage-proof armour body, 45W SUPERVOOCTM flash charge, and 5100mAh hyper...",
+      "price": "₹16,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/list-page/427_600-purple.png",
+        "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/product-image/860_720-black-purple.png"
+      ],
+      "memory": "8GB 128GB",
+      "battery": "4800-5000mAh",
+      "series": "A Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 113,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/a3x-5g-in/list-page/purple-product.png",
+      "title": "OPPO A3x 5G",
+      "description": "OPPO A3x 5G features military-grade shock resistance, multiple liquid resistance, 120Hz ultra bright display, and 45W SUPERVOOC flash charge.From ₹11499",
+      "price": "₹12,499",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/03/H8h9flP6WAbUVrto.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/19/9zASegCJYsWD6sxL.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/19/FsIrt6JtJmtDmYnB.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "4GB 128GB",
+      "battery": "4800-5000mAh",
+      "series": "A Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 114,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/f27-in/listpage/427-600_green_v1.png",
+      "title": "OPPO F27 5G",
+      "description": "Discover the features of OPPO F27 5G, a flagship smartphone with Cosmos Ring Design, AI-powered camera capabilitie...",
+      "price": "₹28,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/f27-in/listpage/427-600_green_v1.png",
+        "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/f27-in/product/specs_860_720.png"
+      ],
+      "memory": "8GB 256GB",
+      "battery": "4800-5000mAh",
+      "series": "F Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 115,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/f29-series-in/f29/listpage/436-600-black-v2.png",
+      "title": "OPPO F29 5G",
+      "description": "Waterproof Rated IP69 IP68 IP66 ,Damage-Proof 360° Armour Body , 45W SUPERVOOC(TM) Flash Charge & 6500mAh Big Battery",
+      "price": "₹23,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/RlH4XYpciT5xwokE.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/Wd7GR8EWvycuugot.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/dwRgEDbz66NwUkFi.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "8GB 128GB",
+      "battery": "6500mAh",
+      "series": "F Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 116,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/f29-series-in/f29-pro/listpage/436-600-white-v3.png",
+      "title": "OPPO F29 Pro 5G",
+      "description": "Waterproof Rated IP69 IP68 IP66 ,Damage-Proof 360° Armour Body ,80W SUPERVOOC(TM) Flash Charge & 6000mAh Big Battery.",
+      "price": "₹31,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/BYf8h9Emz3ZqsJAV.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/ICo2YOEhNr0G5ouj.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/07/jmF2WtleWVEa9CaZ.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "12GB 256GB",
+      "battery": "6000mAh",
+      "series": "F Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 117,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/k12x-5g-in/listpage/427-600-blue.png",
+      "title": "OPPO K12x 5G",
+      "description": "OPPO K12x 5G comes with 360°damage-proof armour body, 5100mAh battery, 45W SUPERVOOC flash charge, and AI Li...",
+      "price": "₹12,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/k12x-5g-in/listpage/427-600-blue.png",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202408/01/BYBEcw1kX13t6T9u.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/29/eoFdTWx31YzhRV7j.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "6GB 128GB",
+      "battery": "4800-5000mAh",
+      "series": "K Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 118,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-n3-flip-en/listpage/find-n3-flip-427_600-gold.png",
+      "title": "OPPO Find N3 Flip",
+      "description": "OPPO Find N3 Flip is equipped with Industry-Leading Hinge, 17.27cm 120Hz Screen, Intuitive Cover Screen, 44W SUPER...",
+      "price": "₹74,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-n3-flip-en/listpage/find-n3-flip-427_600-gold.png",
+        "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/find-n3-flip-en/specs/find-n3-flip-gb.png"
+      ],
+      "memory": "12GB 256GB",
+      "battery": "4000-4400mAh",
+      "series": "Find N Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 119,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-n2-flip-en/no-silk-screen/navigation/find-n2-flip-purple_427_600.png",
+      "title": "OPPO Find N2 Flip",
+      "description": "OPPO Find N2 Flip is equipped with 8.28cm Cover Screen, Industry-Leading Hinge, 44W SUPERVOOC Flash Charge, H...",
+      "price": "₹44,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-n2-flip-en/no-silk-screen/navigation/find-n2-flip-purple_427_600.png",
+        "https://image.oppo.com/content/dam/oppo/product-asset-library/specs/find-n2-flip/find-n2-flip-no-silk-bp.png"
+      ],
+      "memory": "8GB 256GB",
+      "battery": "4000-4400mAh",
+      "series": "Find N Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 120,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x8-series-en/find-x8/listpage/436-600-white-in-v2.png",
+      "title": "OPPO Find X8",
+      "description": "The OPPO Find X8 - Powerful Camera, Powerful AI,Trinity Engine x Dimensity 9400 ,Loooong Battery Life...",
+      "price": "₹69,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/07/TdxiW31bv7jqLiBB.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/07/3rQzffdCeLIsg6Ry.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/07/p8Om6LfJ3yu9ZBgf.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "memory": "12GB 256GB",
+      "battery": "5630mAh",
+      "series": "Find X Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 121,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x8-series-en/find-x8-pro/listpage/432-600-white-in.png",
+      "title": "OPPO Find X8 Pro",
+      "description": "The new OPPO Find X8 Pro flagship phone has AI Telescope Zoom, Lightning Snap, AI Photo Remaster, Trinity Engine x Di...",
+      "price": "₹97,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x8-series-en/find-x8-pro/listpage/432-600-white-in.png",
+        "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x8-series-en/find-x8-pro/products/932-720.png",
+        "https://www.oppo.com/content/dam/oppo/product-asset-library/find/find-x8-series/en/oppo-find-x8-pro/white-apac/assets/images-color-konka-l-1.jpg"
+      ],
+      "memory": "16GB GB  512GB",
+      "battery": "5910mAh",
+      "series": "Find X Series",
+      "support5G": "5G",
+      "category": "smartphones"
+    },
+    {
+      "id": 122,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/accessories/oppo-mh166-earphone/oppo-mh166.png",
+      "title": "OPPO MH166 Type-C Earphone",
+      "description": "OPPO MH166 Type-C Earphone -Not support for Find X8 Pro, Find X8, Reno13 Pro 5G, Reno12 5G, A3 Pro 5G, A3x 5G, A3x 4G, etc. For full support list, please contact customer service before purchase.",
+      "price": "₹149",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202405/28/X1oWkEijA7Xwhnsa.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202405/28/Ixrg8datgJz1ZKz6.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202405/28/eIKuSBys64l8EMFR.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "audio"
+    },
+    {
+      "id": 123,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/enco-air2-pro/navigation/gray_inavigation_600_490.png",
+      "title": "OPPO Enco Air2 Pro",
+      "description": "OPPO Enco Air2 Pro offers 12.4 mm large titanium-coated diaphragm drivers, active noise cancellation, AI noise cancellati...",
+      "price": "₹3,499",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/nZL9ghQ9quQNKA17.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/DeZorC3q4rwGN3sE.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/1Dt0G7tsJfPf5DZj.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "audio"
+    },
+    {
+      "id": 124,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/enco-buds2/navigation/Enco-Buds2-black-600_600.png",
+      "title": "OPPO Enco Buds2",
+      "description": "OPPO Enco Buds2 is equipped with upgraded 10mm large composite titanized diaphragm dynamic driver, the Enco Buds...",
+      "price": "₹1,599",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/enco-buds2/navigation/Enco-Buds2-black-600_600.png"
+      ],
+      "category": "audio"
+    },
+    {
+      "id": 125,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/accessories/thumbnail/type-c-vooc-cable-white-1m.jpg",
+      "title": "OPPO Type-C VOOC Cable 1M-DL129",
+      "description": "Supported upto 80W OPPO Reno10 Pro 5G | OPPO Reno11 Pro 5G | OPPO Reno12 5G | OPPO Reno12 Pro 5G | OPPO K13 5G | OPPO F29 Pro 5G | OPPO Reno13 Pro 5G | OPPO Reno13 5G | OPPO Find X8 | OPPO Find X8 Pro...",
+      "price": "₹499",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/YBPhLc3WQggf87lm.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202405/10/t8976UxRMMn4PLDa.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/TUhehuFTUR25xEBJ.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 126,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/iot-list/accessories/oppo-find-x8-pro-aramid-fiber-magnetic-case.jpeg",
+      "title": "OPPO Find X8 Pro Aramid Fiber Magnetic Case",
+      "description": "OPPO Find X8 Pro Aramid Fiber Magnetic Case",
+      "price": "₹1,999",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/25/gDgTqUGNasbO4VhP.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202501/16/zn10qVGKE4C7uWby.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 127,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/iot-list/accessories/oppo-find-x8-imitation-leather-texture-magnetic-half-pack-case.jpeg",
+      "title": "OPPO Find X8 Imitation Leather Texture Magnetic Half-pack Case",
+      "description": "OPPO Find X8 Imitation Leather Texture Magnetic Half-pack Case",
+      "price": "₹2,599",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/in/mkt/iot-list/accessories/oppo-find-x8-imitation-leather-texture-magnetic-half-pack-case.jpeg"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 128,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/24/LaXX8cqb1560mXMX.png?x-amz-process=image/format,webp/quality,Q_80",
+      "title": "OPPO 80W SUPERVOOC Car Charger",
+      "description": "OPPO 80W SUPERVOOC Car Charger",
+      "price": "₹2,499",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/24/LaXX8cqb1560mXMX.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/24/DvBWUH8Ph9amjZvr.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/24/ClDGCYbuNjwIRYnX.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 129,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/homepage/new-navi/45W.png",
+      "title": "OPPO SUPERVOOC 45W Power Adapter",
+      "description": "OPPO SUPERVOOC 45W Power Adapter",
+      "price": "₹499",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/18/udxPsc9kRKZYqUlR.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/18/FG7SxP78kRwxwQY7.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/18/KZo0SpIE14tXJeVk.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 130,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/accessories/thumbnail/SUPERVOOC-80W-Power-Adapter.png",
+      "title": "OPPO SUPERVOOC 80W Power Adapter",
+      "description": "OPPO SUPERVOOC 80W Power Adapter",
+      "price": "₹1,099",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/03/dz0hUgqwv6oetLBV.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/27/2q2TLnEdXOvmUpMs.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202303/27/AItSJoJITA3pH7On.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 131,
+      "image": "https://www.oppo.com/content/dam/oppo/in/mkt/accessories/thumbnail/Type-C-Data-Cable-1M.png",
+      "title": "OPPO Type-C Data Cable White 1M",
+      "description": "OPPO Type-C Data Cable White 1M",
+      "price": "399",
+      "sliderImg": [
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/iOChUlm802IIAhWY.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202206/09/VZ43U8K2UNvUkbQS.png?x-amz-process=image/format,webp/quality,Q_80",
+        "https://opsg-img-cdn-gl.heytapimg.com/epb/202407/25/GwuGaTpxY7a3mzvh.png?x-amz-process=image/format,webp/quality,Q_80"
+      ],
+      "category": "accessories"
+    },
+    {
+      "id": 132,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-pad-air-en/listpage/oppo-pad-air-600x600.png",
+      "title": "OPPO Type-C VOOC Cable 1M-DL129",
+      "description": "Seriously Light Entertainment! OPPO Pad Air carries 2K Eye-Care Display, 4GB+3GB Extended RAM, Snapdragon 680 8...",
+      "price": "₹17,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-pad-air-en/listpage/oppo-pad-air-600x600.png",
+        "https://image.oppo.com/content/dam/oppo/product-asset-library/specs/pad-air/oppo-pad-air-pg-specs.png"
+      ],
+      "category": "tablets"
+    }
+  ],
+  "cart": [
+    {
+      "id": 112,
+      "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/list-page/427_600-purple.png",
+      "title": "OPPO A3 Pro 5G",
+      "description": "The OPPO A3 Pro 5G has 360°damage-proof armour body, 45W SUPERVOOCTM flash charge, and 5100mAh hyper...",
+      "price": "₹16,999",
+      "sliderImg": [
+        "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/list-page/427_600-purple.png",
+        "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/product-image/860_720-black-purple.png"
+      ],
+      "memory": "8GB 128GB",
+      "battery": "4800-5000mAh",
+      "series": "A Series",
+      "support5G": "5G",
+      "category": "smartphones",
+      "quantity": 2
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+.Footer-box{
+    background-color: black;
+    
+}
+.footer-head{
+    color:#aaa;
+    font-size: 14px;
+    padding: 48px 40px 40px;
+}
+.footer-nav{
+    padding: 10px 40px 10px;  
+    color:#aaa;  
+}
+
+.first-footer p{   
+    padding-bottom: 8px;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  font-family: sans-serif;
+  position: relative;
+}
+
+.footer-top {
+  text-align: left;
+  padding: 20px 0;
+  font-size: 18px;
+}
+
+.arrow {
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+hr {
+  border-color: #444;
+  margin: 10px 0;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  font-size: 14px;
+  padding: 10px 0;
+}
+
+.footer-links a {
+  color: #aaa;
+  text-decoration: none;
+  
+}
+
+.footer-links span {
+  color: #aaa;
+  margin-left: auto;
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.footer-social .icon {
+  margin-right: 15px;
+  font-size: 20px;
+  display: inline-block;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.footer-region a {
+  color: #fff;
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+.floating-buttons {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.floating-icon {
+  background-color: #444;
+  padding: 10px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+}
+
+
+
+
